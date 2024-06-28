@@ -12,7 +12,7 @@ The first step would be to generate the methodology to address this problem. It 
 2. Find the data and the sources
   
 3. Develop a Python Model to address the challenge
-   - Tools that may help to address this challenge are Python [PuLP](https://coin-or.github.io/pulp/) and Google [OR Tools] (https://github.com/google/or-tools/blob/main/examples/python/shift_scheduling_sat.py). This link for the [OR Tools](https://developers.google.com/optimization/scheduling/employee_scheduling?hl=es-419) can also be useful.
+   - Tools that may help to address this challenge are Python [PuLP](https://coin-or.github.io/pulp/) and Google [OR Tools](https://github.com/google/or-tools/blob/main/examples/python/shift_scheduling_sat.py). This link for the [OR Tools](https://developers.google.com/optimization/scheduling/employee_scheduling?hl=es-419) can also be useful.
    - This would be a kind of linear programming task, and looking at workforce scheduling algorithms may be useful.
   
 4. Solve the Python problem
