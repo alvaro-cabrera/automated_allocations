@@ -26,9 +26,9 @@ The first step would be to generate the methodology to address this problem. It 
 1. Define de problem
    - Allocate the operators to the aircrafts in need of maintenance
    - Rules: 
-      - Certifiers are usually assigned to aircrafts in that are in bays close to each other
+      - Certifiers are usually assigned to aircrafts that are in bays close to each other
       - Shifts are usually of 12 hours, some from 5am to 5pm, but it depends a bit (exact information in the roster?)
-      - aaa
+      - 
 
 2. Find the data and the sources
    - Sources: 
