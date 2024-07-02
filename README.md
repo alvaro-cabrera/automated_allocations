@@ -1,6 +1,6 @@
 # Automated Allocations Project Readme
 
-## This repository is to work on the automated allocations project for my internship at Etihad company
+## This repository is to work on the automated allocations project for my internship
 
 The first step would be to generate the methodology to address this problem. It could be presented as follows: 
 
