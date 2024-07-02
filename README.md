@@ -32,7 +32,7 @@ The first step would be to generate the methodology to address this problem. It 
 
 2. Find the data and the sources
    - Sources: 
-      - Roster should have the personel and the corresponding certifications also (Andrea should give me access)
+      - In the Roster we should have the personel and the corresponding certifications also (Andrea should give me access)
       - Amos is for workload (Mithu - I think is written like that- is the expert in dataplatform and Amos. I should speak with her afterwards)
 
 3. Develop a Python Model to address the challenge
