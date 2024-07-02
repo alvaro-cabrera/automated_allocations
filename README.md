@@ -26,11 +26,14 @@ The first step would be to generate the methodology to address this problem. It 
 1. Define de problem
    - Allocate the operators to the aircrafts in need of maintenance
    - Rules: 
-      - aaa
+      - Certifiers are usually assigned to aircrafts in that are in bays close to each other
+      - Shifts are usually of 12 hours, some from 5am to 5pm, but it depends a bit (exact information in the roster?)
       - aaa
 
 2. Find the data and the sources
-   - aa
+   - Sources: 
+      - Roster should have the personel and the corresponding certifications also (Andrea should give me access)
+      - Amos is for workload (Mithu - I think is written like that- is the expert in dataplatform and Amos. I should speak with her afterwards)
 
 3. Develop a Python Model to address the challenge
    - Link to the Python model created
