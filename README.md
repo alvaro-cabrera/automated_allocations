@@ -5,7 +5,7 @@
 The first step would be to generate the methodology to address this problem. It could be presented as follows: 
 
 1. Define the problem
-   - In this section, we need to decide what we need to achieve (do an automatic allocation of the operators to the aircraft in maintenance)
+   - In this section, we need to decide what we need to achieve
    - Define the rules of the model
    - If needed, define a cost function
   
