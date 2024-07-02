@@ -19,4 +19,21 @@ The first step would be to generate the methodology to address this problem. It 
 5. Check if the solution is valid.
    - If it is valid, proceed
    - If it is not valid, look for the issue and repeat
+6. Deploy
+
+## aa
+
+1. Define de problem
+   - Allocate the operators to the aircrafts in need of maintenance
+   - Rules: 
+      - aaa
+      - aaa
+
+2. Find the data and the sources
+   - aa
+
+3. Develop a Python Model to address the challenge
+   - Link to the Python model created
+   
+
 
