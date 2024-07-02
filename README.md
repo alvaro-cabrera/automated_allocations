@@ -21,7 +21,7 @@ The first step would be to generate the methodology to address this problem. It 
    - If it is not valid, look for the issue and repeat
 6. Deploy
 
-## aa
+## A
 
 1. Define de problem
    - Allocate the operators to the aircrafts in need of maintenance
