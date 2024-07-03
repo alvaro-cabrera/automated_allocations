@@ -28,7 +28,9 @@ The first step would be to generate the methodology to address this problem. It 
    - Rules: 
       - Certifiers are usually assigned to aircrafts that are in bays close to each other
       - Shifts are usually of 12 hours, some from 5am to 5pm, but it depends a bit (exact information in the roster?)
-      - 
+      - Each operator has a different certification level, so that determines to which aircraft it can be assigned
+      - Certifiers can be assigned to more than 1 aircraft at the same time, as they are the ones that have to sign
+      so they can sign on one aircraft and go to a close one to sign that one
 
 2. Find the data and the sources
    - Sources: 
