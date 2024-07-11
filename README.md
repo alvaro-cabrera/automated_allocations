@@ -23,9 +23,12 @@ The first step would be to generate the methodology to address this problem. It 
 
 ## A
 
+![Image Description](/images/HoozN%20Excel%20Image.png)
+
 1. Define de problem
    - Allocate the operators to the aircrafts in need of maintenance
    - Rules: 
+      - Each certifier has certain certifications, indicated with X in the Hooz'N excel. 
       - Certifiers are usually assigned to aircrafts that are in bays close to each other
       - Shifts are usually of 12 hours, some from 5am to 5pm, but it depends a bit (exact information in the roster?)
       - Each operator has a different certification level, so that determines to which aircraft it can be assigned
