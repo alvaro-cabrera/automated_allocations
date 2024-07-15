@@ -29,7 +29,7 @@ The first step would be to generate the methodology to address this problem. It 
 
    - Allocate the operators to the aircrafts in need of maintenance. At this stage we will focus just on the first column of the manpower section in the Allocations Excel, column O with the "Certifier" title. It is the most crucial manpower colum, and the hardest to fill. The other operators are easier to fill once we have the certifiers. Also, we will focus on Wide Body and Narrow Body, not with the 3rd parties
 
-   - Rules: 
+   - Rules: $\color{red}{\textsf{lorem ipsum}}$
 
       - Each certifier has certain certifications, indicated with X in the Hooz'N excel. They must be assigned to the aircrafts in which they have certifications
 
