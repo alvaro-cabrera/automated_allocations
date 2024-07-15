@@ -58,25 +58,28 @@ The first step would be to generate the methodology to address this problem. It 
 
       - Certifiers can be assigned to more than 1 aircraft at the same time, as they are the ones that have to sign so they can sign on one aircraft and go to a close one to sign that one
 
+      - Careful that the aircraft code (i.e, EIA) can be repeated in the same workpack allocation, as the plane can arrive more than 1 time per day. So, the unique key should be WP (column M)
+
    - Possible approach:
 
       1. "Translate" the aircraft code in the Allocation Sheet to the corresponding aircraft type. This should be done just once. 
          - BL_and BN_: 787-9
          - BM_: 787-10
-         - EI_: A320 N2500
+         - EI_: A320 V2500
          - AE(A-J):321 V2500
          - AE(K-ONWARDS): 321 NEO
          - ET_: B777. Represented as B772 and B773 in Hooz'N. But there are not any B772 in Etihad, so actually an ET_ will always be a B773
          - DD_: B777F
          - AP_: A380
          - XW_: A350
-      2. Remove any sick or leave operator from the Hooz'N Excel. Copy paste the B1 sheet of the Excel file (shown in the image), as in there we have all the information we will need: 
+      2. Remove any sick or leave operator from the Hooz'N Excel. Copy paste the B1 sheet of the Excel file (shown in the image), as in there we have all the information we will need: name, allocation zone, certifications, <code style="color : red">shift?</code> and operator type (LE, E, T). <code style="color : red">Anything else we should be looking here?</code> 
 
 
 <code style="color : red">QUESTIONS:</code>: 
    - What does the A/L3 in red indicate in the certifications?
    - Do we need to look at the B2 engineers at any point here?
    - What was special of the name in orange on the Hooz'N?
+   - What does ADT mean in Bay? And which bay should it be?
       
 
 
