@@ -63,13 +63,15 @@ The first step would be to generate the methodology to address this problem. It 
    - Possible approach:
 
       1. "Translate" the aircraft code in the Allocation Sheet to the corresponding aircraft type. This should be done just once. 
-         - BL_and BN_: 787-9
-         - BM_: 787-10
-         - EI_: A320 V2500
-         - AE(A-J):321 V2500
-         - AE(K-ONWARDS): 321 NEO
-         - ET_: B777. Represented as B772 and B773 in Hooz'N. But there are not any B772 in Etihad, so actually an ET_ will always be a B773
-         - DD_: B777F
+         - BL_ : B787
+         - BN_: B787
+         - BM_: B787-10
+         - EI_: A32V
+         - EJA : A32V
+         - AE(A-J):A321V
+         - AE(K-ONWARDS): A321N
+         - ET_: B773
+         - DD_: B77F
          - AP_: A380
          - XW_: A350
       2. Remove any sick or leave operator from the Hooz'N Excel. Copy paste the B1 sheet of the Excel file (shown in the image), as in there we have all the information we will need: name, allocation zone, certifications, $\color{RED}{\textsf{shift?}}$ and operator type (LE, E, T). $\color{red}{\textsf{Anything else we should be looking here?}}$
@@ -80,6 +82,7 @@ $\color{RED}{\textsf{Questions}}$:
    - Do we need to look at the B2 engineers at any point here?
    - What was special of the name in orange on the Hooz'N?
    - What does ADT mean in Bay? And which bay should it be?
+   - EYD aircraft type?
       
 
 
