@@ -48,9 +48,9 @@ The first step would be to generate the methodology to address this problem. It 
 
       - $\color{BLUE}{\textsf{CAT A CERTIFIERS}}$
          - Indicated with the letter T
-         - They need to be both in arrival and departure, so they can't have 2 aircrafts with same arrival or departure time. If the aircrafts are close, they can be with a difference of 10 minutes in arrival and departure, and that is ok.  They have limited approval level, so if there is a major issue, they will need to call a certifier. So, it is better not to assign them to too many aircrafts, better to assign the certifiers. They are marked in orange in the Allocation excel
+         - They need to be both in arrival and departure, so they can't have 2 aircrafts with same arrival or departure time. If the aircrafts are close, they can be with a difference of 10 minutes in arrival and at least 20 or 30 minutes in departure, and that is ok.  They have limited approval level, so if there is a major issue, they will need to call a certifier. So, it is better not to assign them to too many aircrafts, better to assign the certifiers. They are marked in orange in the Allocation excel
 
-      - Ideally, we should give 2 jobs per certifier per departure wave (1st departure wave is from 17 to 23, and 2nd departure wave is from 23:30 to 3:30 am). So, ideally, 2 aircrafts close to each other per wave per certifier.
+      - Ideally, we should give 2 jobs per certifier per departure wave (1st departure wave is from 17 to 23, and 2nd departure wave is from 23:30 to 3:30 am). In the morning, those waves are from 5:30 to 11 and 12 to 4pm. On the day shift, on the first wave it is usually 3 aircrafts per certifier, as we tend to have a lot of aircrafts in the first morning wave. So, ideally, 2 aircrafts close to each other per wave per certifier.
 
       - If we have used every available certifier in a given zone already in approx. 5 aircrafts, we should get certifiers from other bays. 
 
