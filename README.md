@@ -76,17 +76,17 @@ The first step would be to generate the methodology to address this problem. It 
          - XW_: A350
       2. Remove any sick or leave operator from the Hooz'N Excel. Copy paste the B1 sheet of the Excel file (shown in the image), as in there we have all the information we will need: name, allocation zone, certifications, $\color{RED}{\textsf{shift?}}$ and operator type (LE, E, T). $\color{red}{\textsf{Anything else we should be looking here?}}$
 
+-------
 
 $\color{RED}{\textsf{Questions}}$: 
    - What does the A/L3 in red indicate in the certifications?
    - Do we need to look at the B2 engineers at any point here?
    - What was special of the name in orange on the Hooz'N?
+   - Zone QC? He should be assigned somewhere or the best is not to assign him if possible?
    - What does ADT mean in Bay? And which bay should it be? ADT is hangar
    - EYD aircraft type? Is not ours, so not worry
       
-
-
-      Sick leaves
+------
 
 2. Find the data and the sources
    - Sources: 
