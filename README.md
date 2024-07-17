@@ -45,20 +45,30 @@ The first step would be to generate the methodology to address this problem. It 
          - Shift leaders (indicated as LE, and marked with grey in the Allocation sheet) should not be used except if we have already assigned everyone to 5 aircrafts, or if they are the only with a given needed certification. 
          - We may have an engineer coming from light and that is available to work in any bay. It is indicated as other in the Hooz'N sheet of manpower. 
          - "Regular" certifiers are indicated with the letter E
+         - Certifiers don't need to be on arrival and departure, but ideally yes. 
 
       - $\color{BLUE}{\textsf{CAT A CERTIFIERS}}$
-         - Indicated with the letter T
          - They need to be both in arrival and departure, so they can't have 2 aircrafts with same arrival or departure time. If the aircrafts are close, they can be with a difference of 10 minutes in arrival and at least 20 or 30 minutes in departure, and that is ok.  They have limited approval level, so if there is a major issue, they will need to call a certifier. So, it is better not to assign them to too many aircrafts, better to assign the certifiers. They are marked in orange in the Allocation excel
 
       - Ideally, we should give 2 jobs per certifier per departure wave (1st departure wave is from 17 to 23, and 2nd departure wave is from 23:30 to 3:30 am). In the morning, those waves are from 5:30 to 11 and 12 to 4pm. On the day shift, on the first wave it is usually 3 aircrafts per certifier, as we tend to have a lot of aircrafts in the first morning wave. So, ideally, 2 aircrafts close to each other per wave per certifier.
 
       - If we have used every available certifier in a given zone already in approx. 5 aircrafts, we should get certifiers from other bays. 
 
-      - Engineers night shift goes from 17:30 to 5:30 am and day shift goes from 5:30 to 17:30.
+      - A/L3 means that he is category A but about to change to X. So, it is A so far. 
+
+      - Zone QC means that he is quality control. He is not assigned to any zone, and ideally he should not be assigned to any aircraft, except if we need it. 
+
+      - Guy in orange is a guy that just went from A/L3 to X. So, it is actually an X. 
+
+      - EYD is a 330, but it is just 1 airplane, and we don't actually work in it almost ever. So I should not worry about it now. 
+
+      - Shift code is already matched with the starting and ending time of the shift, given by Faisal email
 
       - Certifiers can be assigned to more than 1 aircraft at the same time, as they are the ones that have to sign so they can sign on one aircraft and go to a close one to sign that one
 
       - Careful that the aircraft code (i.e, EIA) can be repeated in the same workpack allocation, as the plane can arrive more than 1 time per day. So, the unique key should be WP (column M)
+
+      - If the shift ends at 5:30, in the allocation sheet we still have planes that come at 6:30. That is because they can arrive early, and I should have already assigned someone to it just in case. I can represent them differently, as they don't actually imply the work of a full aircraft. Similarly with the departures
 
    - Possible approach:
 
