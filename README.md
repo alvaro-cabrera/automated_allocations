@@ -81,8 +81,8 @@ $\color{RED}{\textsf{Questions}}$:
    - What does the A/L3 in red indicate in the certifications?
    - Do we need to look at the B2 engineers at any point here?
    - What was special of the name in orange on the Hooz'N?
-   - What does ADT mean in Bay? And which bay should it be?
-   - EYD aircraft type?
+   - What does ADT mean in Bay? And which bay should it be? ADT is hangar
+   - EYD aircraft type? Is not ours, so not worry
       
 
 
